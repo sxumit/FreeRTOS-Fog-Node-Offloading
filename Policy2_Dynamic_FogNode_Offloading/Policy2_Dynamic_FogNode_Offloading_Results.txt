@@ -1,5 +1,5 @@
-========================================
-RAW POLICY 2 DATA (CSV FORMAT)
+
+RAW POLICY 2 DATA
 Sample,Mode,Main_Time_us,Contention_RTT_us,Offloaded
 
 1,NORMAL,25607,0,NO
@@ -266,6 +266,7 @@ UPTO
 999,NORMAL,25540,0,NO
 1000,NORMAL,25559,0,NO
 --------------
-POLICY 2 SUMMARY
+
+
 Total Deadline Misses: 0
 Experiment complete
