@@ -1,0 +1,604 @@
+PS D:\FreeRTOS-Fog-Node-Offloading> python .\fog_node.py
+Starting Fog Node Engine...
+[+] Connected to Mosquitto Broker successfully!
+[*] Listening for tasks on: 'cps/compute/request'...
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.68 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.60 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.38 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.38 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.73 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.59 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.11 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.72 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.92 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.53 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.04 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.66 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.92 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.40 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.67 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.47 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.23 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.81 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.74 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.37 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.24 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.54 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.61 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.00 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.87 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.44 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (8.42 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.18 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.16 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.50 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.06 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.64 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.82 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.08 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.13 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.69 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.62 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.59 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.73 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.24 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.31 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.69 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.42 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.47 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.53 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.23 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.70 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.85 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.06 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.48 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.15 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.65 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.62 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.70 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.78 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.17 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.59 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.03 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.19 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.09 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.87 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.08 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.00 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.28 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.58 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.48 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.36 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.75 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.49 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.00 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.58 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.61 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.06 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.33 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.37 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.65 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.12 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.93 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.48 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.82 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.31 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.57 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (8.39 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.81 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.62 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.35 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.09 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (3.88 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (2.25 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.95 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.96 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.44 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.08 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.89 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.69 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.16 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.22 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.63 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (25.48 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (8.17 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.56 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.72 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.49 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (2.43 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.43 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.84 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.18 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.86 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.45 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.47 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (2.43 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.81 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.67 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.86 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.01 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.68 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.38 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.41 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.59 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.81 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.88 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.57 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.78 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.99 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.43 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.71 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.21 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.06 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.38 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.93 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (8.56 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.55 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.59 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.90 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.92 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.75 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.25 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.00 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.17 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.14 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.33 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.79 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (2.27 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.90 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.84 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.58 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.49 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.34 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.69 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.93 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.79 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.83 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (3.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.63 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.75 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.51 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.83 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.51 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.08 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.28 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (4.47 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.30 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (8.01 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.65 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.75 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.44 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.32 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.76 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.24 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.64 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.16 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.16 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.13 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.21 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.03 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.90 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.74 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.01 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.29 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.03 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.05 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.50 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.46 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.02 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.82 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.94 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.40 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (6.40 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.38 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (7.95 ms). Result sent back.
+
+[↓] Task Received: {"value": 25000}
+[↑] Task Finished (5.42 ms). Result sent back.
