@@ -8,9 +8,9 @@
 #include <PubSubClient.h>
 
 // WIFI & MQTT SETTINGS
-const char* ssid = "Sumitoneplus";
-const char* password = "sumit123";
-const char* mqtt_server = "10.164.64.13";
+const char* ssid = "your wifi name ";
+const char* password = "wifi passwords ";
+const char* mqtt_server = " PC's IP v4 address"; // ipconfig command
 
 WiFiClient espClient;
 PubSubClient client(espClient);
